@@ -1,0 +1,9 @@
+D:\study\《C#入门经典(第7版)》 源代码 中英文PDF书籍\c#_workspace\The Race\The Race\bin\Debug\The Race.exe.config
+D:\study\《C#入门经典(第7版)》 源代码 中英文PDF书籍\c#_workspace\The Race\The Race\bin\Debug\The Race.exe
+D:\study\《C#入门经典(第7版)》 源代码 中英文PDF书籍\c#_workspace\The Race\The Race\bin\Debug\The Race.pdb
+D:\study\《C#入门经典(第7版)》 源代码 中英文PDF书籍\c#_workspace\The Race\The Race\obj\Debug\The Race.csprojAssemblyReference.cache
+D:\study\《C#入门经典(第7版)》 源代码 中英文PDF书籍\c#_workspace\The Race\The Race\obj\Debug\The_Race.Form1.resources
+D:\study\《C#入门经典(第7版)》 源代码 中英文PDF书籍\c#_workspace\The Race\The Race\obj\Debug\The_Race.Properties.Resources.resources
+D:\study\《C#入门经典(第7版)》 源代码 中英文PDF书籍\c#_workspace\The Race\The Race\obj\Debug\The Race.csproj.GenerateResource.cache
+D:\study\《C#入门经典(第7版)》 源代码 中英文PDF书籍\c#_workspace\The Race\The Race\obj\Debug\The Race.exe
+D:\study\《C#入门经典(第7版)》 源代码 中英文PDF书籍\c#_workspace\The Race\The Race\obj\Debug\The Race.pdb
